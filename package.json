@@ -8,11 +8,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "engines": {
-    "node" : "6.10.3"
+    "node": "6.10.3"
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
     "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
   }
 }
